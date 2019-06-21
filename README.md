@@ -2,7 +2,7 @@
     <p>Este projeto foi feito durante o curso básico de CSS. </p>
     <ul>
         <li>id e class</li>
-        <li>Seletoresli>
+        <li>Seletores<li>
         <li>Div e Span</li>
         <li>Bordas</li>
         <li>background</li>
